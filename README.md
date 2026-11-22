@@ -52,7 +52,7 @@
 1. Clone the REPO
 
 ```
-git clone https://github.com/mercwar/CBORD
+git clone "https://github.com/mercwar/CBORD"
 ```
 #####
 2. Navigate to the bin folder with your command line
