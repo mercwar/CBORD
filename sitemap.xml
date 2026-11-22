@@ -142,6 +142,9 @@
     <loc>https://github.com/mercwar/CBORD/blob/main/build_cybord.log</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/_config.yml</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/index.html</loc>
   </url>
   <url>
@@ -149,6 +152,9 @@
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0.zip</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/.gitmodules</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/build_cbord_php.log</loc>
