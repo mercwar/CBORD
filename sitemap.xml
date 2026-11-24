@@ -1,85 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cybrm.jpg</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/.github/workflows/fire-site.yml</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cbul.png</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/win_defs.h</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cby-1.jpg</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cybord.res</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cyb2.jpg</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cbord_php.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cyb1.jpg</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cybord.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cb32.jpg</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cbord.res</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/CVBGOD</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/git-push-cbord-cybord.bat</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cbph.png</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/build_cybord.log</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cyfg2.jpg</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/google77a4b19e8f99751c.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cbr.png</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/fire-site.sh</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/images/cby-fg1.jpg</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cbord.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/ext/php_ffi.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cbord.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/test_cybord_bridge.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/menu.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/php8ts.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cybord_php.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/win32api.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cybord_session.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cbord.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/php.ini</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cybord.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/bin/test_cyboard_php.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/cbord.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/ext/php_ffi.dll</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/menu.bat</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/favi-con.ico</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/php8ts.dll</loc>
@@ -88,97 +40,22 @@
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/php.ini</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/ext/php_ffi.dll</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/cybord.exe</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/favi-con.ico</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/cbord.bat</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/build_cybord.log</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/bin/menu.bat</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/cbord.rc</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/fire-site.sh</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/git-push-cbord-cybord.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/win_defs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cbord.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cbord_php.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cybord.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/obj/cybord.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/.github/workflows/fire-site.yml</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/build.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0/google77a4b19e8f99751c.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/win32_table.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.1.zip</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/favi-con.ico</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/build_cybord.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/_config.yml</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/index.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/sitemap.xml</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0.zip</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/.gitmodules</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/build_cbord_php.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord32api.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord.rc</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/win32api_wrappers.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/lib/win32_all.lib</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/lib/win32api.lib</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/lib/cbord.lib</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/sessions/sess_e78f102e7042ae3de57c20d5ad0f1b12</loc>
@@ -190,123 +67,246 @@
     <loc>https://github.com/mercwar/CBORD/blob/main/sessions/cybord.sid</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/README.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/win32api.def</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/fire-site.sh</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/cbord_dll.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/win32api.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/git-push-cbord-cybord.bat</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/cbord.def</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/build_cybord_php.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win_defs.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cybord_php.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step4_cbord_dll.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step4_cbord_exe.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win32_exports.txt</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord32api_gen.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord32api_gen.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_dumpbin.err</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_gen_compile.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_preprocess.err</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step4_win32api.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win32api.exp</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord_dll.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/quick_build.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win_flat.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord_php.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_gen_run.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win_inc.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step2_lib.log</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win32api_wrappers.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord.exp</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cybord.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cybord.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord.obj</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/.github/workflows/fire-site.yml</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/source/cybord_php.c</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/index.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/source/favi-con.ico</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.1.zip</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/source/cybord.rc</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_gen_compile.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step4_win32api.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cybord_php.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win_defs.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win32api_wrappers.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord_dll.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step4_cbord_dll.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cybord.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step4_cbord_exe.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord_php.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_dumpbin.err</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win32_exports.txt</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/quick_build.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_preprocess.err</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cybord.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win32api.exp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord32api_gen.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord.exp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win_inc.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step3_gen_run.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/step2_lib.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/cbord32api_gen.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/obj/win_flat.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/git-push-cbord-cybord.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/build_cybord.log</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/source/cybord.c</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CBORD/blob/main/build.bat</loc>
+    <loc>https://github.com/mercwar/CBORD/blob/main/source/cybord.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/source/favi-con.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/source/cybord_php.c</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CBORD/blob/main/google77a4b19e8f99751c.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord-v1.0.zip</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/fire-site.sh</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/build_cybord_php.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/favi-con.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord_dll.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cbord.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/test_cybord_bridge.php</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/php8ts.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/php.ini</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/test_cyboard_php.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cbord.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/ext/php_ffi.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cybord_session.php</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cybord.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/win32api.dll</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cbord.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/cybord_php.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/bin/menu.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/build_cbord_php.log</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/_config.yml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/win32api.def</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/README.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/win32_table.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord32api.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/.gitmodules</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cyb2.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cybrm.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/CVBGOD</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cby-1.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cbr.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cyfg2.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cby-fg1.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cbul.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cb32.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cbph.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/images/cyb1.jpg</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/win32api_wrappers.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/lib/cbord.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/lib/win32_all.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/lib/win32api.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/win32api.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/cbord.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CBORD/blob/main/build.bat</loc>
   </url>
 </urlset>
